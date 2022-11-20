@@ -11,4 +11,5 @@ Files:
 6) Map_class_to_superlass.xls [Mapping scheme for converting features to superclasses.]
 7) Phentype frequenccies used for word cloud.xls [Phenotype frequencies used for word cloud]
 8) Raw Data For Heat Map for Bipartite Graph.xls [Data used to create heat map for bipartite graph]
-9  Raw Data for Heat Map for Unipartite Graph.xls [Data used to create heat map for unipartite graph]
+9) Raw Data for Heat Map for Unipartite Graph.xls [Data used to create heat map for unipartite graph]
+10) Jaccard Index between sets from Bipartite and Unipartite Graphs.xls
